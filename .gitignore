@@ -14,6 +14,7 @@
 .github/workflows/docs-as-code-cron.yaml
 .github/workflows/docs-as-code-pr-commit-validation.yaml
 
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
