@@ -1,0 +1,25 @@
+{
+  "productId": "86626078-4185-4029-b2e5-22def8ae231f",
+  "name": "Automation",
+  "slug": "automation",
+  "description": "Example product for demonstrating automated workflows in portal",
+  "public": true,
+  "hidden": false,
+  "sections": [
+    {
+      "id": "9e4dd649-b244-4fb7-9ddb-2e4f31b42c5a",
+      "title": "docs",
+      "slug": "docs",
+      "tableOfContents": [
+        {
+          "id": "bc92cb02-30ed-4e84-a891-dc2eed33648d",
+          "title": "About Automation",
+          "slug": "about-automation",
+          "documentId": "c957dc74-e6e9-4bec-9706-6e447d6eccd3",
+          "type": "markdown",
+          "file": "about-automation.md"
+        }
+      ]
+    }
+  ]
+}
